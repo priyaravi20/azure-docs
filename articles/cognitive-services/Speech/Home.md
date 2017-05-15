@@ -14,7 +14,7 @@ ms.author: prrajan
 # Bing Speech API Overview
 Welcome to Speech Service – Microsoft’s speech recognition and text to speech cloud offering which helps users to voice-enable their applications and bring in a delightful conversational experience. 
 
-Microsoft Speech Service has two APIs:
+Microsoft Speech Service has two APIs :
 * Speech To Text  :   
 	Using REST API : For apps converting short spoken commands (upto 15 seconds) to text without real-time streaming or user feedback.  
 	Using WebSocket API : For apps converting long audio (upto 10 minutes) to text with intermediate results.
